@@ -2,204 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bcff7c0-2f07-4b50-b7d3-b0fd939f5773" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant-design-pro.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/config.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/common/nav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ActiveChart/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ActiveChart/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/AvatarList/demo/simple.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/AvatarList/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/AvatarList/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/AvatarList/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Bar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/ChartCard/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/ChartCard/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Field/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Field/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Gauge/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/MiniArea/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/MiniBar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/MiniProgress/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/MiniProgress/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Pie/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Pie/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Radar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/Radar/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/TagCloud/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/TagCloud/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/TimelineChart/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/TimelineChart/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/WaterWave/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/WaterWave/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/bar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/chart-card.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/gauge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/mini-area.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/mini-bar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/mini-pie.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/mini-progress.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/mix.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/pie.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/radar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/tag-cloud.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/timeline-chart.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/demo/waterwave.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/equal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Charts/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/CountDown/demo/simple.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/CountDown/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/CountDown/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/Description.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/DescriptionList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/demo/vertical.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/DescriptionList/responsive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/EditableItem/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/EditableItem/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/EditableLinkGroup/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/EditableLinkGroup/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/demo/403.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/demo/404.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/demo/500.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Exception/typeConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/FooterToolbar/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/FooterToolbar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/FooterToolbar/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/FooterToolbar/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GlobalFooter/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GlobalFooter/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GlobalFooter/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GlobalFooter/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/HeaderSearch/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/HeaderSearch/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/HeaderSearch/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/HeaderSearch/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/NoticeList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/NoticeList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/demo/popover.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NoticeIcon/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NumberInfo/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NumberInfo/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NumberInfo/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NumberInfo/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/demo/image.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/demo/simple.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/demo/standard.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/demo/structure.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/PageHeader/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Result/demo/classic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Result/demo/error.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Result/demo/structure.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Result/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Result/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Result/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/StandardFormRow/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/StandardFormRow/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/StandardTable/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/StandardTable/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TagSelect/demo/expandable.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TagSelect/demo/simple.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TagSelect/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TagSelect/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TagSelect/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Trend/demo/basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Trend/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Trend/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Trend/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/e2e/home.e2e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/e2e/login.e2e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/BasicLayout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/PageHeaderLayout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/activities.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/monitor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/profile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/project.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/register.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/rule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard/Analysis.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard/Analysis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard/Monitor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard/Monitor.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard/Workplace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Dashboard/Workplace.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Exception/403.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Exception/404.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Exception/500.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/AdvancedForm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/BasicForm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/StepForm/Step1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/StepForm/Step2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/StepForm/Step3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/StepForm/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/StepForm/style.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/TableForm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Forms/style.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/BasicList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/BasicList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/CardList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/CardList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/CoverCardList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/CoverCardList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/FilterCardList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/FilterCardList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/SearchList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/SearchList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/TableList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/List/TableList.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Profile/AdvancedProfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Profile/AdvancedProfile.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Profile/BasicProfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Profile/BasicProfile.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Result/Error.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Result/Success.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/Result/Success.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/User/Login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/User/Login.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/User/Register.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/User/Register.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/User/RegisterResult.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes/User/RegisterResult.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/services/api.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/services/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/utils/request.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/utils/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/utils/utils.less" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/routes/Dashboard.css" afterPath="$PROJECT_DIR$/src/routes/index.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/routes/Dashboard.js" afterPath="$PROJECT_DIR$/src/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/BasicLayout.js" afterPath="$PROJECT_DIR$/src/layouts/BasicLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/globalFooter/globalFooter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/globalFooter/globalFooter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/globalFooter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/utils.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/utils.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/config.js" afterPath="$PROJECT_DIR$/src/common/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/UserLayout.js" afterPath="$PROJECT_DIR$/src/layouts/UserLayout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/polyfill.js" afterPath="$PROJECT_DIR$/src/polyfill.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/router.js" afterPath="$PROJECT_DIR$/src/router.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme.js" afterPath="$PROJECT_DIR$/src/theme.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -212,36 +27,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="antd-" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserLayout.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.js">
+      <file leaf-file-name="apis.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/apis.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="1634">
+              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
               <folding>
-                <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#144#172#0" expanded="true" />
+                <element signature="e#56#87#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/common/config.js">
+      <file leaf-file-name="request.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/request.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="665">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="e#56#86#0" expanded="true" />
+                <marker date="1510503512000" expanded="true" signature="983:1339" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserLayout.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.less">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="848">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="224">
+              <caret line="105" column="49" selection-start-line="105" selection-start-column="49" selection-end-line="105" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -275,6 +99,9 @@
         <option value="$PROJECT_DIR$/src/layouts/UserLayout.less" />
         <option value="$PROJECT_DIR$/src/layouts/UserLayout.js" />
         <option value="$PROJECT_DIR$/src/common/config.js" />
+        <option value="$PROJECT_DIR$/src/services/apis.js" />
+        <option value="$PROJECT_DIR$/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -293,10 +120,24 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="709" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -313,41 +154,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="ant-design-pro-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-design-pro-copy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ant-design-pro-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-design-pro-copy" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ant-design-pro-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-design-pro-copy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ant-design-pro-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-design-pro-copy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ant-design-pro-copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-design-pro-copy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,6 +242,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -381,8 +257,66 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -395,39 +329,50 @@
       <workItem from="1509359229308" duration="384000" />
       <workItem from="1509366098820" duration="4237000" />
       <workItem from="1509426559424" duration="924000" />
+      <workItem from="1510498631191" duration="5005000" />
+      <workItem from="1511062348326" duration="458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6099000" />
+    <option name="totallyTimeSpent" value="11562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22964169" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -437,85 +382,123 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.less">
+    <entry file="file://$PROJECT_DIR$/src/services/apis.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="1672">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding>
+            <element signature="e#56#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="e#56#86#0" expanded="true" />
+            <marker date="1510503512000" expanded="true" signature="983:1339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="17" column="82" lean-forward="false" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#144#172#0" expanded="true" />
-          </folding>
+          <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/run-tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mock/api.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.roadhogrc.mock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.roadhogrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/jasmine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/styleMock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/setupTests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mock/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/run-tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -524,117 +507,163 @@
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mock/chart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2708">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mock/notices.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-756">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/theme.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/g2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/polyfill.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
-          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/BasicLayout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/BlankLayout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
-          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1007">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.js">
+    <entry file="file://$PROJECT_DIR$/src/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#144#172#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/UserLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/apis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding>
+            <element signature="e#56#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5025">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="e#56#86#0" expanded="true" />
+            <marker date="1510503512000" expanded="true" signature="983:1339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="105" column="49" selection-start-line="105" selection-start-column="49" selection-end-line="105" selection-end-column="49" />
           <folding />
         </state>
       </provider>
