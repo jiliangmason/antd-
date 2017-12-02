@@ -37,7 +37,7 @@ export default function request(url, options) {
 
   return fetch(url, newOptions)
     .then(checkStatus)
-    .then(response => response.join())
+    .then(response => response.json())
     .catch((err) => {
       if (err.code) {
         notification.error({

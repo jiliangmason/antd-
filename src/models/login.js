@@ -2,7 +2,7 @@
  * Created by Administrator on 2017/11/26 0026.
  */
 import { routerRedux } from 'dva/router';
-import { fakeAccountLogin, fakeMobileLogin } from '../services/api';
+import { fakeAccountLogin, fakeMobileLogin } from '../services/apis';
 
 export default {
   namespace: 'login',

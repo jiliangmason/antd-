@@ -7,7 +7,10 @@ import styles from './index.less';
 const FormItem = Form.Item;
 const { TabPane } = Tabs;
 
-
+@connect(state => ({
+  login: state.login,
+}))
+@Form.create() //修饰器用来修饰原始组件
 export default class Login extends React.Component {
   state = {
     count: 0,
@@ -32,7 +35,15 @@ export default class Login extends React.Component {
 
   handleSubmit = e => {
     e.preventDefault();
-
+    const { type } = this.state;
+    this.props.form.validateFields({ force: true}, (err, values) => {
+      if (!err) {
+        this.props.dispatch({
+          type: `login/${type}Submit`,
+          payload: values,
+        })
+      }
+    })
   }
 
   renderMessage = msg => {
@@ -67,7 +78,6 @@ export default class Login extends React.Component {
               && login.submitting === 'false'
               && this.renderMessage('账户密码错误')
             }
-          </TabPane>
           <FormItem>
             {
               getFieldDecorator('userName', {
@@ -91,9 +101,17 @@ export default class Login extends React.Component {
                 }]
               })(<Input prefix={<Icon type="lock" className={styles.prefixIcon} />}
                         type="password"
-                        placeholder="admin" />)
+                        placeholder="888888" />)
             }
           </FormItem>
+          </TabPane>
+          <TabPane tab="手机号登陆" key="mobile">
+            {
+                  login.status === 'error' &&
+                  login.type === 'mobile' &&
+                  login.submitting === false &&
+                  this.renderMessage('验证码错误')
+            }
           <FormItem>
             {getFieldDecorator('mobile', {
               rules: [{
@@ -131,6 +149,7 @@ export default class Login extends React.Component {
               </Col>
             </Row>
           </FormItem>
+        </TabPane>
         </Tabs>
         <FormItem className={styles.additional}>
           {
@@ -139,6 +158,8 @@ export default class Login extends React.Component {
               initalValue: true,
             })(<Checkbox className={styles.autoLogin}>自动登陆</Checkbox>)
           }
+          <a className={styles.forgot} href="javascript:;">忘记密码</a>
+          <Button size="large" loading={login.submitting} className={styles.submit} type="primary" htmlType="submit">登陆</Button>
         </FormItem>
       </Form>
       <div className={styles.other}>
@@ -152,7 +173,4 @@ export default class Login extends React.Component {
   }
 }
 
-@connect(state => ({
-  login: state.login,
-}))
-@Form.create() //修饰器用来修饰原始组件
+

@@ -4,11 +4,7 @@
   "description": "An out-of-box UI solution for enterprise applications",
   "private": true,
   "scripts": {
-<<<<<<< HEAD
-    "precommit": "npm run lint-staged",
-=======
    "precommit": "npm run lint-staged",
->>>>>>> eddd7254a99abcd580449bb70980c8b9d6a2f37b
     "start": "roadhog server",
     "start:no-proxy": "NO_PROXY=true roadhog server",
     "build": "roadhog build",
