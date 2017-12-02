@@ -32,7 +32,7 @@ class UserLayout extends React.PureComponent {
   getPageTitle() {
     const { location } = this.props;
     const { pathname } = location;
-    let title = '标题Pro';
+    let title = '用户登陆';
     getRouteData('UserLayout').forEach((item) => {
       if (item.path === pathname) {
         title = `${item.name} - demo`;
@@ -53,19 +53,22 @@ class UserLayout extends React.PureComponent {
                 <span className={styles.title}>企业后台demo</span>
               </Link>
             </div>
+            <p className={styles.desc}>Ant Design 是西湖区最具影响力的 Web 设计规范</p>
           </div>
-        </div>
-        {
-          getRouteData('UserLayout').map(item => (
-            <Route
-              exact={item.exact}
-              key={item.path}
-              path={item.path}
-              component={item.component}
-            />)
+          {
+          getRouteData('UserLayout').map(item =>
+            (
+              <Route
+                exact={item.exact}
+                key={item.path}
+                path={item.path}
+                component={item.component}
+              />
+            )
           )
         }
-        <GlobalFooter links={links} copyright={copyright} className={styles.footer} />
+          <GlobalFooter links={links} copyright={copyright} className={styles.footer} />
+        </div>
       </DocumentTitle>);
   }
 }

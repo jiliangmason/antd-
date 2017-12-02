@@ -80,7 +80,7 @@ export function getRouteData(path) {
   }
 
   const routeList = cloneDeep(navData.filter(item => item.layout === path)[0]);
-  const nodeList = getPlainObject(routeList);
+  const nodeList = getPlainObject(routeList.children);
   return nodeList;
 }
 
