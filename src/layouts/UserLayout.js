@@ -27,7 +27,7 @@ class UserLayout extends React.PureComponent {
   getChildContext() {
     const { location } = this.props;
     return { location };
-  }
+  } // 越级传递属性this.context.location 赋值
 
   getPageTitle() {
     const { location } = this.props;
