@@ -50,6 +50,6 @@ class BasicLayout extends React.PureComponent {
     return {
       location,
 
-    }
+    };
   }
 }
