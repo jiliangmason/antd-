@@ -10,7 +10,7 @@ const { TabPane } = Tabs;
 @connect(state => ({
   login: state.login,
 }))
-@Form.create() //修饰器用来修饰原始组件
+@Form.create() // 修饰器用来修饰原始组件
 export default class Login extends React.Component {
   state = {
     count: 0,
@@ -19,7 +19,7 @@ export default class Login extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     if (nextProps.login.status === 'ok') {
-      this.props.dispatch(routerRedux.push('/'))
+      this.props.dispatch(routerRedux.push('/'));
     }
   }
 
@@ -27,38 +27,38 @@ export default class Login extends React.Component {
     clearInterval(this.interval);
   }
 
-  onSwitch = key => {
+  onSwitch = (key) => {
     this.setState({
       type: key,
-    })
+    });
   }
 
-  handleSubmit = e => {
+  handleSubmit = (e) => {
     e.preventDefault();
     const { type } = this.state;
-    this.props.form.validateFields({ force: true}, (err, values) => {
+    this.props.form.validateFields({ force: true }, (err, values) => {
       if (!err) {
         this.props.dispatch({
           type: `login/${type}Submit`,
           payload: values,
-        })
+        });
       }
-    })
+    });
   }
 
-  renderMessage = msg => {
-    return (<Alert style={{marginBottom: 24}} message={msg} type="error" showIcon />);
+  renderMessage = (msg) => {
+    return (<Alert style={{ marginBottom: 24 }} message={msg} type="error" showIcon />);
   }
 
   // 倒计时
   onGetCaptcha = () => {
     let count = 59;
-    this.setState({ count })
+    this.setState({ count });
     this.interval = setInterval(() => {
       count -= 1;
       this.setState({ count });
       if (count === 0) {
-        clearInterval(this.interval)
+        clearInterval(this.interval);
       }
     }, 1000);
   }
@@ -78,32 +78,38 @@ export default class Login extends React.Component {
               && login.submitting === 'false'
               && this.renderMessage('账户密码错误')
             }
-          <FormItem>
-            {
+            <FormItem>
+              {
               getFieldDecorator('userName', {
                 rules: [{
                   required: type === 'acount',
                   message: '请输入用户名',
-                }]
+                }],
               })(
-                <Input size="large"
-                       prefix={<Icon type="user"
-                                     className={styles.prefixIcon}
-                                     placeholder="admin" />} />
+                <Input
+                  size="large"
+                  prefix={<Icon
+                    type="user"
+                    className={styles.prefixIcon}
+                    placeholder="admin"
+                  />}
+                />
                 )}
-          </FormItem>
-          <FormItem>
-            {
+            </FormItem>
+            <FormItem>
+              {
               getFieldDecorator('password', {
                 rules: [{
                   required: type === 'account',
                   message: '请输入密码',
-                }]
-              })(<Input prefix={<Icon type="lock" className={styles.prefixIcon} />}
-                        type="password"
-                        placeholder="888888" />)
+                }],
+              })(<Input
+                prefix={<Icon type="lock" className={styles.prefixIcon} />}
+                type="password"
+                placeholder="888888"
+              />)
             }
-          </FormItem>
+            </FormItem>
           </TabPane>
           <TabPane tab="手机号登陆" key="mobile">
             {
@@ -112,8 +118,8 @@ export default class Login extends React.Component {
                   login.submitting === false &&
                   this.renderMessage('验证码错误')
             }
-          <FormItem>
-            {getFieldDecorator('mobile', {
+            <FormItem>
+              {getFieldDecorator('mobile', {
               rules: [{
                 required: type === 'mobile', message: '请输入手机号！',
               }, {
@@ -126,30 +132,32 @@ export default class Login extends React.Component {
                 placeholder="手机号"
               />
             )}
-          </FormItem>
-          <FormItem>
-            <Row gutter={8}>
-              <Col span={16}>
-                {getFieldDecorator('captcha', {
+            </FormItem>
+            <FormItem>
+              <Row gutter={8}>
+                <Col span={16}>
+                  {getFieldDecorator('captcha', {
                   rules: [{
                     required: type === 'mobile', message: '请输入验证码！',
                   }],
-                })
-                (<Input
+                })(<Input
                   size="large"
                   prefix={<Icon type="mail" className={styles.prefixIcon} />}
                   placeholder="验证码"
                 />)}
-              </Col>
-              <Col span={8}>
-                <Button disabled={count}
-                        className={styles.getCaptcha}
-                        size="large"
-                        onClick={this.onGetCaptcha}>{ count ? `${count} s` : '获取验证码' }</Button>
-              </Col>
-            </Row>
-          </FormItem>
-        </TabPane>
+                </Col>
+                <Col span={8}>
+                  <Button
+                    disabled={count}
+                    className={styles.getCaptcha}
+                    size="large"
+                    onClick={this.onGetCaptcha}
+                  >{ count ? `${count} s` : '获取验证码' }
+                  </Button>
+                </Col>
+              </Row>
+            </FormItem>
+          </TabPane>
         </Tabs>
         <FormItem className={styles.additional}>
           {
@@ -169,8 +177,7 @@ export default class Login extends React.Component {
         <span className={styles.iconWeibo} />
         <Link className={styles.register} to="/user/register">注册账户</Link>
       </div>
-    </div>)
+    </div>);
   }
 }
-
 

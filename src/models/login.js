@@ -62,7 +62,7 @@ export default {
         ...state,
         status: payload.status,
         type: payload.type,
-      }
+      };
     },
 
     // acount submit status
@@ -70,7 +70,7 @@ export default {
       return {
         ...state,
         submitting: payload,
-      }
-    }
-  }
-}
+      };
+    },
+  },
+};
